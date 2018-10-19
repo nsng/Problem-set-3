@@ -4,8 +4,7 @@ import pandas as pd
 
 import numpy as np
 import matplotlib.pyplot as plt
-import urllib.request, urllib.parse, urllib.error
-import json
+
 
 def Question_1(): 
 
